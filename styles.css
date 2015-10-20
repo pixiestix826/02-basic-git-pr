@@ -1,0 +1,47 @@
+/*********************************
+GENERAL
+*********************************/
+
+body {
+  font-family: monospace;
+  background-color: #9b6fdb;
+}
+img {
+  max-width: 100%;
+}
+.profile-photo {
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 40%;
+}
+
+/*********************************
+HEADINGS
+*********************************/
+
+h1 {
+  font-size: 1.75em;
+  font-weight: bolder;
+  text-align: left;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: left;
+}
+
+/*********************************
+SOCIAL ICONS
+*********************************/
+
+.social-icon {
+  width: 60px;
+  height: 60px;
+  margin: 0 5px;
+}
+
+/*********************************
+COLORS
+*********************************/
